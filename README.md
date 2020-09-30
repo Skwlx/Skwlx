@@ -2,7 +2,7 @@
 
 I'm an It student at Politechnika Częstochowska, and I'm searching for a job 🤓.
 
-### Known languages,frameworks and tools:
+### Known languages, frameworks and tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="32" height="32" /> |
 <img src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" width="32" height="32"> |
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="32" height="32"> |
