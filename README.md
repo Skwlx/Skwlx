@@ -1,6 +1,6 @@
 ## Hi there my name is Paweł.
 
-I'm an CS student at Politechnika Częstochowska, and I'm looking for a job 🤓.
+I'm an CS student at Politechnika Częstochowa, and I'm looking for a job 🤓.
 
 ### Known languages, frameworks and tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="32" height="32" /> |
