@@ -15,3 +15,4 @@ I'm currently learning Angular.
 #### You can find me on:
 * LinkedIn: https://www.linkedin.com/in/paweł-sławuta-64709219a/
 * Discord: Skwlx#3066
+* Mail: pawel.slawuta@o2.pl
