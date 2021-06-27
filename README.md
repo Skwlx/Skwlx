@@ -9,7 +9,8 @@ I'm an CS student at Politechnika Częstochowska and a freelancer.
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/057/full/scsslogo.png" width="32" height="32"> |
 <img src="https://bedekodzic.pl/wp-content/uploads/2018/03/flat550x550075f.u1.jpg" width="32" height="32"> |
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="32" height="32"> |
-<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="32" height="32"> 
+<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="32" height="32"> |
+<ing src="https://cdn.zapier.com/storage/blog/4ec8fc7dc3a75758a3913bab9e5a4fd8_2.500x278.png" width="32" height="32">
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### You can find me on:
