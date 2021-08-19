@@ -1,6 +1,6 @@
 ## Hi there my name is Paweł.
 
-I'm an CS student at Politechnika Częstochowska and a freelancer.
+I'm an CS student at Politechnika Częstochowska and a freelancer. I'm currently working on gitlab.
 
 ### Known languages, frameworks and tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="32" height="32" /> |
