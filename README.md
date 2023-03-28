@@ -1,8 +1,4 @@
 ## Hi there my name is Paweł.
-
-🤓 CS student at Politechnika Częstochowska <br/>
-I'm currently working on my Engineering Thesis.
-
 ### Known languages, frameworks and tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="32" height="32" /> |
 <img src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" width="32" height="32"> |
