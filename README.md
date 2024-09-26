@@ -9,7 +9,7 @@
 🖥️ Co-leading Front-end Development at work, focusing on delivering high-quality web applications  
 🎮 Trying to finish Resident Evil 1 on my Playstation 1 
 
-## Commercial projects that I have participated in, and you can find them online 
+## Commercial projects in which I have participated or created from scratch
 
 [The Labz](https://www.thelabz.com/)  
 [DreamStorm Studios](https://dreamstormstudios.com/)  
