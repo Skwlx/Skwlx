@@ -7,7 +7,7 @@
 👨‍🎓 Pursuing a Master’s Degree in Computer Science  
 🌱 Participating in the 2nd edition of "Opanuj Frontend" by [Przeprogramowani](https://przeprogramowani.pl/)  
 🖥️ Co-leading Front-end Development at work, focusing on delivering high-quality web applications  
-🎮 Trying to finish Resident Evil 1 on my Playstation 1 
+🎮 Trying to finish Resident Evil 2 on my Playstation 1 
 
 ## Commercial projects in which I have participated or created from scratch
 
