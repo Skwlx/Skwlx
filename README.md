@@ -5,7 +5,7 @@
 ## What I'm working on
 
 👨‍🎓 Pursuing a Master’s Degree in Computer Science  
-🌱 Participating in the 2nd edition of "Opanuj Frontend" by [Przeprogramowani](https://przeprogramowani.pl/)  
+🌱 Participating in the "Opanuj Typescript" by [Przeprogramowani](https://przeprogramowani.pl/)  
 🖥️ Co-leading Front-end Development at work, focusing on delivering high-quality web applications  
 🎮 Trying to finish the Legend of Zelda Twilight Princess on Nintendo Wii
 
