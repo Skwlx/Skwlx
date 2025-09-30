@@ -1,6 +1,6 @@
 ## Hi there 
 
-💻 Front-end Developer at [Limur sp. z o. o.](https://limur.pl)
+💻 Head of React and Front-end Developer at [Limur sp. z o. o.](https://limur.pl)
 
 ## What I'm working on
 
