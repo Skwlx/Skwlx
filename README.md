@@ -5,7 +5,7 @@
 ## What I'm working on
 
 👨‍🎓 Pursuing a Master’s Degree in Computer Science  
-🌱 Participating in the "Opanuj Typescript" by [Przeprogramowani](https://przeprogramowani.pl/)  
+🌱 Participated in the "Opanuj Typescript" by [Przeprogramowani](https://przeprogramowani.pl/)  
 🖥️ Leading Front-end Development at work, focusing on delivering high-quality web applications  
 🎮 Deep in Mario Kart World
 
